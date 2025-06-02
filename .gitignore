@@ -1,0 +1,8 @@
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+sqlserver_data/
+.env
+*.bak
+*.mdf
+*.ldf
